@@ -1,0 +1,8 @@
+[user]
+  email = daniel.hammerl99@gmx.de
+  name = Daniel Hammerl
+
+[core]
+  excludesfile = ~/.gitignore_global
+  autocrlf = input
+  editor = vim
